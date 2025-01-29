@@ -26,7 +26,7 @@ Brain tumors can be classified based on their origin, behavior, and aggressivene
 •	Pituitary Adenomas Develop in the pituitary gland, affecting hormone production.
 •	Medulloblastomas Common in children, fast-growing tumors in the cerebellum.
 •	Metastatic Brain Tumors Originate in other parts of the body (lungs, colon, breast) and spread to the brain.
-[U.R.O.P,.pdf](https://github.com/user-attachments/files/18587160/U.R.O.P.pdf)
+
 
 CNN Architecture:-
 CNNs consist of multiple layers designed to process image data effectively:
@@ -58,3 +58,4 @@ List of Figures
 Conclusion:-
 CNNs offer a promising approach to brain tumor detection through medical image analysis. Despite challenges in interpretability, data availability, and computational costs, advancements in CNN techniques continue to enhance their accuracy and reliability. Future improvements, including better model interpretability and robust training techniques, will further solidify CNNs as a critical tool in medical diagnostics.
 
+[U.R.O.P,.pdf](https://github.com/user-attachments/files/18587160/U.R.O.P.pdf)
